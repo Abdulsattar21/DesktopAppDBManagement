@@ -1,0 +1,20 @@
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\Istanbul Machine.csprojResolveAssemblyReference.cache
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.AboutForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.CategoryForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.CustomersForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.DealsForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.EmployeesForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.Main.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.ProductsForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.ShippersForm.resources
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\Istanbul Machine.csproj.GenerateResource.cache
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\Istanbul Machine.csproj.CoreCompileInputs.cache
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\casber\Downloads\3-20180414T185154Z-001\3\FinalProject-20180414T070154Z-001\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
